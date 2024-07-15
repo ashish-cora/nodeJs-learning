@@ -1,0 +1,1 @@
+wrote some text with writeFilesyncThis is the first file, This is the second file,This is the first fileThis is the first file
